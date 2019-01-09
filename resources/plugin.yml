@@ -1,0 +1,4 @@
+name: MineToEarn
+version: 1.0
+main: su.spyme.minetoearn.Main
+depend: [Vault]
