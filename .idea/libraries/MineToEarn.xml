@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MineToEarn">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/MineToEarn/MineToEarn.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MineToEarn:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MineToEarn_jar</output-path>
+    <root id="archive" name="MineToEarn.jar">
+      <element id="module-output" name="MineToEarn" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/jetbrains/annotations/23.1.0/annotations-23.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
