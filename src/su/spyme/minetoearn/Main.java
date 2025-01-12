@@ -38,7 +38,6 @@ public class Main extends JavaPlugin implements Listener{
       if(economyProvider != null) {
          econ = economyProvider.getProvider();
       }
-
    }
 
    private static void addMoney(Player p, double count) {

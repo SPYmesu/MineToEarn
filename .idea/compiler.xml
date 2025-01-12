@@ -9,8 +9,5 @@
         <module name="MineToEarn" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="MineToEarn" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>
